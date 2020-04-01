@@ -1,6 +1,7 @@
 {
   "summary": {
-    "title": "test model"
+    "title": "test model",
+    "owner": "owner"
   },
   "detail": {
     "contributors": [],
@@ -15,6 +16,7 @@
         "thumbnail": "./public/content/images/thumbnail.jpg",
         "id": 1
       }
-    ]
+    ],
+    "reviewer": "r"
   }
 }
